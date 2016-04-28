@@ -1,0 +1,3 @@
+[submodule "recurrence-fullcalendar"]
+	path = recurrence-fullcalendar
+	url = https://github.com/zapbuild/recurrence-fullcalendar.git
